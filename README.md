@@ -1,2 +1,2 @@
 # test
-Some tests in release.
+For testing...
